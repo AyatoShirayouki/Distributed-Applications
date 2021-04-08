@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewBag.Title = "BGToll";
+}
+
+@using (Html.BeginForm())
+{
+    <p>Enter a vehicle Licence Plate Number: @Html.TextBox("id") <input type="submit" value="search"/></p>
+}
+
+<h2>BGToll - @ViewData["id"]</h2>
+
+<p>Vinette Number: @ViewData["vignetteNumber"]</p>
+<p>Valid from: @ViewData["validityDateFrom"]</p>
+<p>Expiration day: @ViewData["validityDateTo"]</p>
+<br/>
+@ViewData["body"]
+
