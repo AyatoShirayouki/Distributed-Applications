@@ -1,0 +1,12 @@
+D:\University\Distributed Applications\Week2\Project2\WcfSOAP\WcfSOAP\bin\Debug\WcfSOAP.dll.config
+D:\University\Distributed Applications\Week2\Project2\WcfSOAP\WcfSOAP\bin\Debug\WcfSOAP.dll
+D:\University\Distributed Applications\Week2\Project2\WcfSOAP\WcfSOAP\bin\Debug\WcfSOAP.pdb
+D:\University\Distributed Applications\Week2\Project2\WcfSOAP\WcfSOAP\obj\Debug\WcfSOAP.csprojAssemblyReference.cache
+D:\University\Distributed Applications\Week2\Project2\WcfSOAP\WcfSOAP\obj\Debug\WcfSOAP.csproj.CoreCompileInputs.cache
+D:\University\Distributed Applications\Week2\Project2\WcfSOAP\WcfSOAP\obj\Debug\WcfSOAP.dll
+D:\University\Distributed Applications\Week2\Project2\WcfSOAP\WcfSOAP\obj\Debug\WcfSOAP.pdb
+D:\University\Distributed Applications\Week2\Project2\WcfSOAP\WcfSOAP\bin\Debug\ApplicationService.dll
+D:\University\Distributed Applications\Week2\Project2\WcfSOAP\WcfSOAP\bin\Debug\ApplicationService.pdb
+D:\University\Distributed Applications\Week2\Project2\WcfSOAP\WcfSOAP\obj\Debug\WcfSOAP.csproj.CopyComplete
+D:\University\Distributed Applications\Week2\Project2\WcfSOAP\WcfSOAP\bin\Debug\Newtonsoft.Json.dll
+D:\University\Distributed Applications\Week2\Project2\WcfSOAP\WcfSOAP\bin\Debug\Newtonsoft.Json.xml

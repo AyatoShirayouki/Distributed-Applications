@@ -1,0 +1,10 @@
+D:\University\Distributed Applications\Week2\Project2\WcfSOAP\ConsumerForm\bin\Debug\ConsumerForm.exe.config
+D:\University\Distributed Applications\Week2\Project2\WcfSOAP\ConsumerForm\bin\Debug\ConsumerForm.exe
+D:\University\Distributed Applications\Week2\Project2\WcfSOAP\ConsumerForm\bin\Debug\ConsumerForm.pdb
+D:\University\Distributed Applications\Week2\Project2\WcfSOAP\ConsumerForm\obj\Debug\ConsumerForm.csprojAssemblyReference.cache
+D:\University\Distributed Applications\Week2\Project2\WcfSOAP\ConsumerForm\obj\Debug\ConsumerForm.Form1.resources
+D:\University\Distributed Applications\Week2\Project2\WcfSOAP\ConsumerForm\obj\Debug\ConsumerForm.Properties.Resources.resources
+D:\University\Distributed Applications\Week2\Project2\WcfSOAP\ConsumerForm\obj\Debug\ConsumerForm.csproj.GenerateResource.cache
+D:\University\Distributed Applications\Week2\Project2\WcfSOAP\ConsumerForm\obj\Debug\ConsumerForm.csproj.CoreCompileInputs.cache
+D:\University\Distributed Applications\Week2\Project2\WcfSOAP\ConsumerForm\obj\Debug\ConsumerForm.exe
+D:\University\Distributed Applications\Week2\Project2\WcfSOAP\ConsumerForm\obj\Debug\ConsumerForm.pdb
